@@ -84,6 +84,6 @@
         </div>
     </div>
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="php/admin.js"></script>
+    <script src="controller/php/admin.js"></script>
 </body>
 </html>

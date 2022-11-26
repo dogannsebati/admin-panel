@@ -1,6 +1,6 @@
 <?php
 
-require_once 'inc/function.php';
+require_once 'controller/inc/function.php';
 
 if ($SH->getAdminSession()) {
     require_once 'interface/header.php';
