@@ -11,8 +11,8 @@ class PDO_DB {
   public function __construct() {
     $this->Host = 'localhost';
     $this->DBName = 'manager';
-    $this->DBUser = '-----';
-    $this->DBPassword = '----';
+    $this->DBUser = 'root';
+    $this->DBPassword = '';
     $this->DBPort = 3306;
     $this->Connect();
     $this->parameters = array();
